@@ -1,0 +1,5 @@
+Source 1: https://www.kaggle.com/datasets/ahsanneural/synthetic-it-support-tickets/data
+
+Source 2: https://www.kaggle.com/datasets/tobiasbueck/multilingual-customer-support-tickets/data?select=aa_dataset-tickets-multi-lang-5-2-50-version.csv
+
+Source 3: https://www.kaggle.com/datasets/kaiwalyaatulraut/customer-support-tickets-dataset
